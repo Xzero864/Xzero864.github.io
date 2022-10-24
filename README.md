@@ -6,14 +6,20 @@ I'm a 20 year old Computer Science and Applied Math concentrator at Brown Univer
     
 ## Projects
 
+
 ### Adversarial Search
 
 [Adversarial Search](https://github.com/Xzero864/Adversarial-Search)
 
 
+
+
 ### Mazes
 
 [Mazes](https://github.com/Xzero864/Mazes)
+
+
+
 
 
 ### Dixit Online
