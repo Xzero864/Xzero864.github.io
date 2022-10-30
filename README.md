@@ -41,6 +41,9 @@ Written in C
 A chaotic party game made for hack@harvard2022
 
 [See devpost for a demo and explanations](https://devpost.com/software/dixit)
+
+<br>
+
 [Dixit Online](https://github.com/Xzero864/DixitOnline)
 
 <br>
