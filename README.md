@@ -8,7 +8,12 @@
 <br>
 
 
-
+### Reinforcement Learning
+* Implements reinforcement learning to solve the mountain car and taxi driver problems
+* Coded in python using gym for state representations
+* Able to solve both problems quickly and efficiently after 10,000 training episodes
+* Uses Q learning for the taxi car
+* Uses a fourier basis to transform the continue state space of the mountain car problem
 
 
 ### Adversarial Search
@@ -19,7 +24,7 @@
 * The code could easily be adjusted to work for any two player game with perfect information, making it incredibly versatile
 Written in python
 
-(Note: the github is private as it is a school project).
+(Note: the repository as it is a school project).
 
 <br>
 
@@ -34,7 +39,7 @@ Written in python
 * The program is complete with a visualizer that can visualize the maze so the user can try to solve it aswell.
 Written in C
 
-(Note: the github is private due to it being a school project).
+(Note: the repository is private due to it being a school project).
 
 <br>
 
